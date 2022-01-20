@@ -1,0 +1,4 @@
+body { background-color: #dde }
+tr:hover { background-color: #889; }
+td.discarded { text-decoration: line-through; }
+.favicon { max-width: 2em; max-height: 2em; }
